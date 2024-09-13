@@ -7,7 +7,6 @@
 
 import SwiftUI
 import RealityKit
-import RealityKitContent
 
 struct ImmersiveView: View {
     var body: some View {
@@ -17,5 +16,4 @@ struct ImmersiveView: View {
 
 #Preview {
     ImmersiveView()
-        .previewLayout(.sizeThatFits)
 }
